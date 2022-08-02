@@ -1,0 +1,17 @@
+.hihihi{
+
+    color: #fafafa;
+    color: #696969;
+    color: #141414;
+    
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+#sidebar {
+    position: relative;
+    bottom:850px;
+}
